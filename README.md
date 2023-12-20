@@ -69,7 +69,3 @@ Slicing with Blade Component, a Laravel package that allows you to create reusab
 ## Contributing
 
 Feel free to contribute to the project by submitting issues or pull requests. Your feedback and improvements are highly appreciated!
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
