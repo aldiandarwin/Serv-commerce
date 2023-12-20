@@ -1,5 +1,7 @@
 # Project: Serv
 
+![case-study](https://github.com/aldiandarwin/Serv-commerce/assets/70283015/7f043945-e336-4b04-ac94-7c6f5ee0e166)
+
 ## Project Goals
 
 The goal of this project is to create a web marketplace offering digital marketing, programming, and other IT skills. The main idea is to assist experts with IT skills in connecting with users who need services for their businesses.
